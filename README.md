@@ -5,10 +5,10 @@
 The project is based on a web service called REST,which uses the following technologies:
 
 #### Backend
-Java 1.8
-Spring boot
-RESTful Web services
-Maven
+- Java 1.8
+- Spring boot
+- RESTful Web services
+- Maven
 #### Application Server
 Tomcat
 #### Development Tool
