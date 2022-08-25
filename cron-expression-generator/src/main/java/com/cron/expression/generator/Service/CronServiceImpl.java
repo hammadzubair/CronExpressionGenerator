@@ -5,8 +5,7 @@ import org.springframework.stereotype.Component;
 import com.cron.expression.generator.Utils.Conversion;
 import com.cron.expression.generator.Utils.GenerateExp;
 
-@Component                    
-@SuppressWarnings({ "rawtypes","unchecked" })
+@Component
 public class CronServiceImpl   implements ICronService{
 	
 	@Override

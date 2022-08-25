@@ -1,6 +1,5 @@
 package com.cron.expression.generator.Service;
 
-@SuppressWarnings("rawtypes")
 public interface ICronService {
 	
       String cronMinutesExp(Long minute);

@@ -1,7 +1,7 @@
 package com.cron.expression.generator.Model;
 
 public class CronExpressionReq {
-	
+
 	private Long minutes;
 	private Long hourly;
 	private String days;
@@ -12,7 +12,7 @@ public class CronExpressionReq {
 	private String monthName;
 	private String time;
 	private String type;
-	
+
 	public CronExpressionReq() {
 		super();
 	}
@@ -112,7 +112,7 @@ public class CronExpressionReq {
 		this.type = type;
 	}
 
-	
-	
-	
+
+
+
 }
